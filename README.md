@@ -18,11 +18,11 @@ This repository contains a collection of my solutions to the code challenges on 
 - [x] [Matrix Elements Sum](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/2-edge-of-the-ocean/matrixElementsSum.js)
 
 ### Smooth Sailing
-- [x] All Longest Strings
-- [x] Common Character Count
-- [x] Is Lucky
-- [x] Sort by Height
-- [x] Reverse in Parentheses
+- [x] [All Longest Strings](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/3-smooth-sailing/allLongestStrings.js)
+- [x] [Common Character Count](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/3-smooth-sailing/commonCharacterCount.js)
+- [x] [Is Lucky](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/3-smooth-sailing/isLucky.js)
+- [x] [Sort by Height](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/3-smooth-sailing/sortByHeight.js)
+- [x] [Reverse in Parentheses](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/3-smooth-sailing/reverseInParentheses.js)
  
 ### Exploring the Waters
 - [x] Alternating Sums
