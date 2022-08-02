@@ -25,11 +25,11 @@ This repository contains a collection of my solutions to the code challenges on 
 - [x] [Reverse in Parentheses](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/3-smooth-sailing/reverseInParentheses.js)
  
 ### Exploring the Waters
-- [x] Alternating Sums
-- [x] Add Border
-- [x] Are Similar?
-- [x] Array Change
-- [x] Palindrome Rearranging
+- [x] [Alternating Sums](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/4-exploring-the-waters/alternatingSums.js)
+- [x] [Add Border](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/4-exploring-the-waters/addBorder.js)
+- [x] [Are Similar?](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/4-exploring-the-waters/areSimilar.js)
+- [x] [Array Change](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/4-exploring-the-waters/arrayChange.js)
+- [x] [Palindrome Rearranging](https://github.com/emmaclarem/codesignal-code-challenges/blob/main/arcade-solutions/4-exploring-the-waters/palindromeRearranging.js)
  
 ### Island of Knowledge
 - [x] Are Equally Strong
